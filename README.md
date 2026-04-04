@@ -2,7 +2,7 @@
 
 ### 💻 Hardware Enthusiast | Low-Level Systems | Software Developer
 
-I'm a computer sceince student at CEFET-RJ with a deep passion for computer architecture, operating systems, and low-level programming. I thrive in environments where hardware and software intersect. 
+I'm a computer science student at CEFET-RJ with a deep passion for computer architecture, operating systems, and low-level programming. I thrive in environments where hardware and software intersect. 
 
 Currently, my daily driver is a custom-configured Debian setup running Hyprland, and I'm always looking to dive deeper into the mechanics of the systems I use.
 
