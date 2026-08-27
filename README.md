@@ -110,11 +110,3 @@ Repositório com códigos e exercícios desenvolvidos ao longo das disciplinas d
 Ago/2023 – Previsão de formatura: 2028.1 · CR acumulado: 8,46
 
 ---
-
-### 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-kubrusly" target="_blank">LinkedIn</a> •
-  <a href="mailto:matheusmontenegro100@gmail.com">matheusmontenegro100@gmail.com</a> •
-  (21) 97351-8481
-</p>
