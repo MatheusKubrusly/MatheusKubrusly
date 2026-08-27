@@ -1,32 +1,126 @@
-# Hi there, I'm Matheus! 👋
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-### 💻 Hardware Enthusiast | Low-Level Systems | Software Developer
+<h3 align="center">Estudante de Ciência da Computação @ CEFET-RJ | Baixo Nível, Hardware & Matemática/Estatística</h3>
 
-I'm a computer science student at CEFET-RJ with a deep passion for computer architecture, operating systems, and low-level programming. I thrive in environments where hardware and software intersect. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-kubrusly" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheusmontenegro100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Currently, my daily driver is a custom-configured Debian setup running Hyprland, and I'm always looking to dive deeper into the mechanics of the systems I use.
+---
 
-### 🚀 What I'm Currently Working On
+### 🚀 Sobre mim
 
-* **WolfByte Hardware Sub-team (IEEE):** Serving as the current leader of the hardware sub-team, driving our technical initiatives.
-* **Custom Architecture:** Designing and building a 4/8-bit computer entirely from scratch.
-* **Computer Vision:** Developing the hardware and vision systems for our new team mascot.
-* **Web Development:** Building my personal portfolio from the ground up using HTML, CSS, JavaScript, and Bootstrap.
+Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de formatura: 2028.1), com um pé na **computação de baixo nível/hardware** e outro na **matemática e estatística aplicada**. Meu dia a dia roda em um Debian customizado com Hyprland, e gosto de entender os sistemas que uso desde os fundamentos — do transistor ao modelo estatístico.
 
-### 🛠️ Languages & Technologies
+- 🔭 Atualmente construindo um **computador 4/8-bit do zero** e aprofundando conhecimentos em **redes de computadores**, **arquitetura de software** e **arquitetura de linguagens de programação**
+- 🧑‍💻 Lidero a **Subequipe de Hardware da WolfByte** (Ramo Estudantil IEEE CEFET-RJ), incluindo o desenvolvimento de visão computacional para o mascote da equipe
+- 📊 Também sou apaixonado por **estatística aplicada**, com projetos que vão de análise descritiva a PCA, testes de hipótese e regressão logística
+- 🔬 Apresentei pesquisa de iniciação científica sobre mineração de dados educacionais no **JIPPG 2025**
+- 🧑‍🏫 Trabalho como **professor particular de Matemática**, ajudando alunos da graduação e do Ensino Médio/Fundamental
+- 🛠️ Já atuei como estagiário em desenvolvimento web e testes de software em uma startup do setor de petróleo/gás, e como **freelancer** em aplicações web para pequenos negócios
+- 🌱 Tenho grande interesse em **engenharia, física, cibersegurança e finanças**, áreas que pretendo explorar mais após a graduação
+- ⚡ Meu diferencial: gosto genuinamente de estudar e me aprofundar — o aprendizado contínuo é o que me mantém motivado
+- 🎯 Ainda tenho apenas 21 anos e acredito que minha jornada acadêmica e profissional está apenas começando
 
-* **Core Languages:** C, Java, Python
-* **Web:** HTML, CSS, JavaScript
-* **Environment & OS:** Linux (Debian), Hyprland window manager
-* **Domains:** Data Mining, Vector Search (Inner Products), Advanced Mathematics
+---
 
-### 🧠 Background & Experience
+### 🏆 Experiências em destaque
 
-* **Research:** Presented scientific initiation research on data mining at the JIPPG 2025 event.
-* **Mathematics:** Strong foundation in Calculus, Differential Equations, and Linear Algebra, which I apply both in my projects and as a private math tutor.
-* **Languages:** Fluent in Portuguese and hold a diploma in English from Cultura Inglesa.
+- **Líder da Subequipe de Hardware** — WolfByte, Ramo Estudantil IEEE CEFET-RJ
+- **Aluno Bolsista de Iniciação Científica** — Mineração de Dados Educacionais (CEFET-RJ), pesquisa apresentada na JIPPG 2025
+- **Aluno Bolsista de Iniciação Tecnológica (FAPERJ)** — Rio Petróleo, validação de software e documentação de APIs
+- **Monitor Voluntário de Cálculo a Uma Variável** — CEFET-RJ
+- 🥉 **3º Lugar** na categoria Exposup (Ciências Exatas e da Terra) — SEPEX 2024
+- 🏅 Conquistas no GitHub: **Pull Shark**, **Pair Extraordinaire**, **Quickdraw**, **YOLO**
 
-### 📫 Let's Connect
+---
 
-* LinkedIn: www.linkedin.com/in/matheus-kubrusly
-* Email: matheusmontenegro100@gmail.com
+### 🧰 Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+#### 💰 [BolsoDireito](https://github.com/BolsoDireitoTeam/BolsoDireito)
+Aplicação web de finanças pessoais com dashboard interativo, gráficos dinâmicos (barras, rosca, radar e linhas) e módulo completo de investimentos — incluindo simulador de juros compostos, gestão de receitas/despesas recorrentes e importação de extratos via CSV.
+`JavaScript` · trabalho em equipe com metodologias ágeis
+
+#### 🖥️ [projects-operating-systems](https://github.com/MatheusKubrusly/projects-operating-systems)
+Implementação em C de utilitários e de um shell com gerenciamento de processos, desenvolvido durante a disciplina de Sistemas Operacionais.
+`C`
+
+#### 🎮 [case-ieee-wolfbyte-cefet-rj](https://github.com/MatheusKubrusly/case-ieee-wolfbyte-cefet-rj)
+Projeto trainee desenvolvido na minha entrada na WolfByte (equipe do capítulo de Computer Society do IEEE no CEFET-RJ): construção de um jogo da memória.
+
+#### 🌐 [formacao-DIO](https://github.com/MatheusKubrusly/formacao-DIO)
+Projetos do Bootcamp MRV Front End SPA Developer, com foco em desenvolvimento web front-end.
+`JavaScript`
+
+#### 🖼️ [PortfolioPessoal](https://github.com/MatheusKubrusly/PortfolioPessoal)
+Código-fonte do meu site de portfólio pessoal, em desenvolvimento, para centralizar minha trajetória acadêmica em Ciência da Computação.
+`HTML` · `CSS` · `JavaScript`
+
+#### 📊 Análise Estatística sobre Uso de Redes Sociais e Saúde Mental
+Estudo descritivo cruzando o uso de redes sociais com indicadores psicológicos em adolescentes, evoluindo para PCA, testes qui-quadrado (Cramér's V, correção de Bonferroni) e regressão logística com bootstrap.
+
+#### 📚 [Disciplinas-da-Faculdade](https://github.com/MatheusKubrusly/Disciplinas-da-Faculdade)
+Repositório com códigos e exercícios desenvolvidos ao longo das disciplinas do Bacharelado em Ciência da Computação.
+`Jupyter Notebook`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusKubrusly&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusKubrusly&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKubrusly&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+### 🎓 Formação acadêmica
+
+**Bacharelado em Ciência da Computação** — CEFET-RJ (Unidade Maracanã)
+Ago/2023 – Previsão de formatura: 2028.1 · CR acumulado: 8,46
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-kubrusly" target="_blank">LinkedIn</a> •
+  <a href="mailto:matheusmontenegro100@gmail.com">matheusmontenegro100@gmail.com</a> •
+  (21) 97351-8481
+</p>
