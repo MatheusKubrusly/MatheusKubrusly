@@ -81,11 +81,6 @@ Projeto trainee desenvolvido na minha entrada na WolfByte (equipe do capítulo d
 
 #### 🌐 [formacao-DIO](https://github.com/MatheusKubrusly/formacao-DIO)
 Projetos do Bootcamp MRV Front End SPA Developer, com foco em desenvolvimento web front-end.
-`JavaScript`
-
-#### 🖼️ [PortfolioPessoal](https://github.com/MatheusKubrusly/PortfolioPessoal)
-Código-fonte do meu site de portfólio pessoal, em desenvolvimento, para centralizar minha trajetória acadêmica em Ciência da Computação.
-`HTML` · `CSS` · `JavaScript`
 
 #### 📊 Análise Estatística sobre Uso de Redes Sociais e Saúde Mental
 Estudo descritivo cruzando o uso de redes sociais com indicadores psicológicos em adolescentes, evoluindo para PCA, testes qui-quadrado (Cramér's V, correção de Bonferroni) e regressão logística com bootstrap.
