@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de formatura: 2028.1), com um pé na **computação de baixo nível/hardware** e outro na **matemática e estatística aplicada**. Meu dia a dia roda em um Debian customizado com Hyprland, e gosto de entender os sistemas que uso desde os fundamentos.
+Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de formatura: 2028.1), com um pé na **computação de baixo nível/hardware** e outro na **matemática e estatística aplicada**. Meu dia a dia roda em um Debian customizado com Hyprland, e gosto de entender os sistemas que uso desde os fundamentos mais básicos até os mais complexos.
 
 - 🔭 Atualmente, por meio das disciplinas que venho cursando na faculdade, venho aprofundando meus conhecimentos em **inferência estatística**, **redes de computadores**, **arquitetura e padrões de software**, **arquitetura de linguagens de programação** e **sistemas digitais**.
 - 🧑‍💻 Liderei a **Subequipe de Hardware da WolfByte** (Ramo Estudantil IEEE CEFET-RJ).
