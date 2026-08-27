@@ -91,12 +91,12 @@ Repositório com códigos e exercícios desenvolvidos ao longo das disciplinas d
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusKubrusly&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusKubrusly&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusKubrusly&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusKubrusly&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKubrusly&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKubrusly&layout=compact&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
