@@ -69,25 +69,22 @@ Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de form
 ### 📌 Projetos em destaque
 
 #### 💰 [BolsoDireito](https://github.com/BolsoDireitoTeam/BolsoDireito)
-Aplicação web de finanças pessoais com dashboard interativo, gráficos dinâmicos (barras, rosca, radar e linhas) e módulo completo de investimentos — incluindo simulador de juros compostos, gestão de receitas/despesas recorrentes e importação de extratos via CSV.
-`JavaScript` · trabalho em equipe com metodologias ágeis
+Aplicação web de finanças pessoais com dashboard interativo, gráficos dinâmicos e módulo completo de investimentos.
 
 #### 🖥️ [projects-operating-systems](https://github.com/MatheusKubrusly/projects-operating-systems)
 Implementação em C de utilitários e de um shell com gerenciamento de processos, desenvolvido durante a disciplina de Sistemas Operacionais.
-`C`
 
 #### 🎮 [case-ieee-wolfbyte-cefet-rj](https://github.com/MatheusKubrusly/case-ieee-wolfbyte-cefet-rj)
-Projeto trainee desenvolvido na minha entrada na WolfByte (equipe do capítulo de Computer Society do IEEE no CEFET-RJ): construção de um jogo da memória.
+Projeto trainee desenvolvido na minha entrada na WolfByte (equipe do capítulo de Computer Society do IEEE no CEFET-RJ): construção de um jogo da memória por meio de Arduino e circuitos em uma protoboard.
 
 #### 🌐 [formacao-DIO](https://github.com/MatheusKubrusly/formacao-DIO)
-Projetos do Bootcamp MRV Front End SPA Developer, com foco em desenvolvimento web front-end.
+Projetos derivados de diversos cursos, estes tendo foco no desenvolvimento de aplicações web ful-stack.
 
 #### 📊 Análise Estatística sobre Uso de Redes Sociais e Saúde Mental
-Estudo descritivo cruzando o uso de redes sociais com indicadores psicológicos em adolescentes, evoluindo para PCA, testes qui-quadrado (Cramér's V, correção de Bonferroni) e regressão logística com bootstrap.
+Estudo descritivo cruzando o uso de redes sociais com indicadores psicológicos em adolescentes.
 
 #### 📚 [Disciplinas-da-Faculdade](https://github.com/MatheusKubrusly/Disciplinas-da-Faculdade)
 Repositório com códigos e exercícios desenvolvidos ao longo das disciplinas do Bacharelado em Ciência da Computação.
-`Jupyter Notebook`
 
 ---
 
