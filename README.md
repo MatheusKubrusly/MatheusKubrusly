@@ -80,7 +80,7 @@ Projeto trainee desenvolvido na minha entrada na WolfByte (equipe do capítulo d
 #### 🌐 [formacao-DIO](https://github.com/MatheusKubrusly/formacao-DIO)
 Projetos derivados de diversos cursos, estes tendo foco no desenvolvimento de aplicações web full-stack.
 
-#### 📊 Análise Estatística sobre Uso de Redes Sociais e Saúde Mental
+#### 📊 [Análise Estatística sobre Uso de Redes Sociais e Saúde Mental](https://github.com/MatheusKubrusly/Analise-Estatistica-Saude-Mental-Jovens)
 Estudo descritivo cruzando o uso de redes sociais com indicadores psicológicos em adolescentes.
 
 #### 📚 [Disciplinas-da-Faculdade](https://github.com/MatheusKubrusly/Disciplinas-da-Faculdade)
