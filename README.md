@@ -15,28 +15,27 @@
 
 ### 🚀 Sobre mim
 
-Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de formatura: 2028.1), com um pé na **computação de baixo nível/hardware** e outro na **matemática e estatística aplicada**. Meu dia a dia roda em um Debian customizado com Hyprland, e gosto de entender os sistemas que uso desde os fundamentos — do transistor ao modelo estatístico.
+Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de formatura: 2028.1), com um pé na **computação de baixo nível/hardware** e outro na **matemática e estatística aplicada**. Meu dia a dia roda em um Debian customizado com Hyprland, e gosto de entender os sistemas que uso desde os fundamentos.
 
-- 🔭 Atualmente construindo um **computador 4/8-bit do zero** e aprofundando conhecimentos em **redes de computadores**, **arquitetura de software** e **arquitetura de linguagens de programação**
-- 🧑‍💻 Lidero a **Subequipe de Hardware da WolfByte** (Ramo Estudantil IEEE CEFET-RJ), incluindo o desenvolvimento de visão computacional para o mascote da equipe
-- 📊 Também sou apaixonado por **estatística aplicada**, com projetos que vão de análise descritiva a PCA, testes de hipótese e regressão logística
-- 🔬 Apresentei pesquisa de iniciação científica sobre mineração de dados educacionais no **JIPPG 2025**
-- 🧑‍🏫 Trabalho como **professor particular de Matemática**, ajudando alunos da graduação e do Ensino Médio/Fundamental
-- 🛠️ Já atuei como estagiário em desenvolvimento web e testes de software em uma startup do setor de petróleo/gás, e como **freelancer** em aplicações web para pequenos negócios
-- 🌱 Tenho grande interesse em **engenharia, física, cibersegurança e finanças**, áreas que pretendo explorar mais após a graduação
-- ⚡ Meu diferencial: gosto genuinamente de estudar e me aprofundar — o aprendizado contínuo é o que me mantém motivado
-- 🎯 Ainda tenho apenas 21 anos e acredito que minha jornada acadêmica e profissional está apenas começando
+- 🔭 Atualmente, por meio das disciplinas que venho cursando na faculdade, venho aprofundando meus conhecimentos em **inferência estatística**, **redes de computadores**, **arquitetura e padrões de software**, **arquitetura de linguagens de programação** e **sistemas digitais**.
+- 🧑‍💻 Liderei a **Subequipe de Hardware da WolfByte** (Ramo Estudantil IEEE CEFET-RJ).
+- 📊 Sou apaixonado pela área de **estatística e probabilidade**, ainda mais quando somada com a área de computação.
+- 🔬 Apresentei pesquisa de iniciação científica sobre mineração de dados educacionais no **JIPPG 2025**.
+- 🧑‍🏫 Trabalho como **professor particular de Matemática**, ajudando alunos da graduação e do Ensino Médio/Fundamental.
+- 🛠️ Já atuei como estagiário em desenvolvimento web e testes de software em uma startup do setor de petróleo/gás, e como **freelancer** em aplicações web para pequenos negócios.
+- 🌱 Tenho grande interesse em pelas áreas de **engenharia, física, cibersegurança, computação quântica, aprendizado de máquina**, etc.. Gostaria muito de poder explorar mais elas após a minha primeira graduação.
+- ⚡ Meu diferencial: gosto genuinamente de estudar e me aprofundar — o aprendizado contínuo é o que me mantém motivado.
+- 🎯 Ainda tenho apenas 21 anos e acredito que minha jornada acadêmica e profissional está apenas começando.
 
 ---
 
 ### 🏆 Experiências em destaque
 
-- **Líder da Subequipe de Hardware** — WolfByte, Ramo Estudantil IEEE CEFET-RJ
-- **Aluno Bolsista de Iniciação Científica** — Mineração de Dados Educacionais (CEFET-RJ), pesquisa apresentada na JIPPG 2025
-- **Aluno Bolsista de Iniciação Tecnológica (FAPERJ)** — Rio Petróleo, validação de software e documentação de APIs
-- **Monitor Voluntário de Cálculo a Uma Variável** — CEFET-RJ
+- **Ex-Líder da Subequipe de Hardware** — WolfByte, Ramo Estudantil IEEE CEFET-RJ
+- **Ex-Aluno Bolsista de Iniciação Científica** — Mineração de Dados Educacionais (CEFET-RJ), pesquisa apresentada na JIPPG 2025
+- **Ex-Aluno Bolsista de Iniciação Tecnológica (FAPERJ)** — Rio Petróleo, validação de software e documentação de APIs
+- **Ex-Monitor Voluntário de Cálculo a Uma Variável** — CEFET-RJ
 - 🥉 **3º Lugar** na categoria Exposup (Ciências Exatas e da Terra) — SEPEX 2024
-- 🏅 Conquistas no GitHub: **Pull Shark**, **Pair Extraordinaire**, **Quickdraw**, **YOLO**
 
 ---
 
