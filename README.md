@@ -23,7 +23,7 @@ Sou graduando em **Ciência da Computação** no **CEFET-RJ** (previsão de form
 - 🔬 Apresentei pesquisa de iniciação científica sobre mineração de dados educacionais no **JIPPG 2025**.
 - 🧑‍🏫 Trabalho como **professor particular de Matemática**, ajudando alunos da graduação e do Ensino Médio/Fundamental.
 - 🛠️ Já atuei como estagiário em desenvolvimento web e testes de software em uma startup do setor de petróleo/gás, e como **freelancer** em aplicações web para pequenos negócios.
-- 🌱 Tenho grande interesse em pelas áreas de **engenharia, física, cibersegurança, computação quântica, aprendizado de máquina**, etc.. Gostaria muito de poder explorar mais elas após a minha primeira graduação.
+- 🌱 Tenho grande interesse pelas áreas de **engenharia, física, cibersegurança, computação quântica, aprendizado de máquina**, etc. Gostaria muito de poder explorar mais elas após a minha primeira graduação.
 - ⚡ Meu diferencial: gosto genuinamente de estudar e me aprofundar — o aprendizado contínuo é o que me mantém motivado.
 - 🎯 Ainda tenho apenas 21 anos e acredito que minha jornada acadêmica e profissional está apenas começando.
 
@@ -78,7 +78,7 @@ Implementação em C de utilitários e de um shell com gerenciamento de processo
 Projeto trainee desenvolvido na minha entrada na WolfByte (equipe do capítulo de Computer Society do IEEE no CEFET-RJ): construção de um jogo da memória por meio de Arduino e circuitos em uma protoboard.
 
 #### 🌐 [formacao-DIO](https://github.com/MatheusKubrusly/formacao-DIO)
-Projetos derivados de diversos cursos, estes tendo foco no desenvolvimento de aplicações web ful-stack.
+Projetos derivados de diversos cursos, estes tendo foco no desenvolvimento de aplicações web full-stack.
 
 #### 📊 Análise Estatística sobre Uso de Redes Sociais e Saúde Mental
 Estudo descritivo cruzando o uso de redes sociais com indicadores psicológicos em adolescentes.
@@ -91,13 +91,18 @@ Repositório com códigos e exercícios desenvolvidos ao longo das disciplinas d
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusKubrusly&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusKubrusly&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusKubrusly&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKubrusly&layout=compact&hide_border=true" height="165" alt="Top Languages" />
-</p>
+<!--
+Os cards de estatísticas gerais e linguagens mais usadas (github-readme-stats.vercel.app)
+foram removidos temporariamente: o serviço público está com deployment pausado
+com frequência (503 DEPLOYMENT_PAUSED). Após configurar uma instância própria na Vercel,
+basta reinserir os cards abaixo apontando para a nova URL:
+
+<img src="https://SUA-INSTANCIA.vercel.app/api?username=MatheusKubrusly&show_icons=true&theme=default&hide_border=true" height="165" />
+<img src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=MatheusKubrusly&layout=compact&hide_border=true" height="165" />
+-->
 
 ---
 
@@ -105,5 +110,3 @@ Repositório com códigos e exercícios desenvolvidos ao longo das disciplinas d
 
 **Bacharelado em Ciência da Computação** — CEFET-RJ (Unidade Maracanã)
 Ago/2023 – Previsão de formatura: 2028.1 · CR acumulado: 8,46
-
----
